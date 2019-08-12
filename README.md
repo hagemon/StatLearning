@@ -9,7 +9,7 @@ Native Python and C++  implementation of some machine learning algorithm includi
 
 This repo is for my own study and share purpose, feel free to use.
 
-All models are trained and evaluated in simple Iris dataset
+All models are trained and evaluated in simple **Iris** dataset.
 
 Advices are welcomed!
 
